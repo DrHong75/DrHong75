@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+소속: 영남이공대학교 소프트웨어계열
+이름: 홍성규
+
+
 <!--
 **DrHong75/DrHong75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
