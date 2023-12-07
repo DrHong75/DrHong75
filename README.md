@@ -11,7 +11,7 @@
 4. 푸시하기
 
 [영남이공대학교](http://www.ync.ac.kr)
-![사진업로드](./githun.jfif)
+![사진업로드](./insta.png)
 <!--
 **DrHong75/DrHong75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
